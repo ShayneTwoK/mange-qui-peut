@@ -32,5 +32,5 @@ La version de dev correspond à mon vrai travail que j'ai reussi à récuperer, 
 
 ![image](https://user-images.githubusercontent.com/36078099/114484502-a06c7300-9c0a-11eb-983e-c9b21f7cd504.png)
 
-EDIT FINAL : Voila j'ai fini pas résoudre le problème qui venait de mon webpack corrompu. J'ai du downgrade pour pourvoir compilé.
+EDIT FINAL : Voila j'ai fini pas résoudre le problème qui venait de mon webpack corrompu. J'ai du downgrade pour pourvoir compilé. La version final se trouve sur la branche dev.
 Je tient à ajouter que je n'ai pas ajouter de fonctionalité et est laisser tel quelle mon travail, je ne sais pas si je vous ai mis en retard et ne voulais pas vous en donner d'avantage avec mes erreurs, et tenait à vous prouvez mon autonomie. En vous souhaitant une bonne continuation.
